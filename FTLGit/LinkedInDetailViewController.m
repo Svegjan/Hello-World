@@ -4,7 +4,7 @@
 //
 //  Created by Vlatko Efremovski on 6/17/13.
 //  Copyright (c) 2013 Vlatko Efremovski. All rights reserved.
-//
+//Dobar den, ubav den!
 
 #import "LinkedInDetailViewController.h"
 
