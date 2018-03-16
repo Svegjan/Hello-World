@@ -49,7 +49,7 @@
 
 @property (nonatomic,strong) NSMutableArray *mediaInfo;
 
-@property (nonatomic,strong) NSMutableArray *nameArray;    //IME
+@property (nonatomic,strong) NSMutableArray *nameArray;    //
 
 @property (nonatomic,strong) NSMutableArray *pictureArray;
 
